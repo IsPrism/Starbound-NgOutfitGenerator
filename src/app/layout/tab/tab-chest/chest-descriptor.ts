@@ -1,6 +1,6 @@
 // tslint:disable-next-line: max-line-length
 export const chestDescriptor = {
-  name: 'aviantier6schest',
+  name: 'workoutchest',
   count: 1,
   parameters: {
     shortdescription: 'Custom Sleeves',
